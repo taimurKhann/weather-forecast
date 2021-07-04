@@ -18,8 +18,8 @@ Meteostat
 4) Once containers are up and running, open another terminal and run below command\
     docker exec -it app /bin/bash
 5) Once connected to app conatiner, run below command to execute the job either in historical or daily mode\
-    python main.py historical
-    or
+    python main.py historical\
+    or\
     python main.py daily
 6) After script completed, run below script to get result of average air temperature for the month of February for the 'Berlin / Tegel' Station for all years.\
     python report.py
