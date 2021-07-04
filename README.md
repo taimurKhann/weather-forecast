@@ -6,7 +6,7 @@
 ### Libraries
 Pandas\
 Psycopg2\
-Meteostat\
+Meteostat
 
 ### How to run
 1) Download the repo on your system or clone it using below command if git is installed\
